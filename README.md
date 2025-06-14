@@ -46,7 +46,7 @@ attribut isCompleted, permettant à l'utilisateur de garder une vue d'ensemble c
 et de celles qui sont déjà complètes. Cette fonctionnalité a été testée et se révèle intuitive, renforçant
 l'efficacité de la gestion des tâches.
 
-![11](https://github.com/user-attachments/assets/3f36d95d-75fd-42b3-a165-b9bab9db0e77)
+![6](https://github.com/user-attachments/assets/9ac38afb-fdba-4c6f-a0e0-ee754189c951)
 
 
     
